@@ -1,0 +1,9 @@
+<!Doctype HTML>
+<html>
+	<head>
+		<titlr>Derita</title>
+	</head>
+<body bgcolor=88ff88>
+<h2>DELlayita beRITA</H2>
+	</BODY>
+</HTML>
